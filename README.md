@@ -36,7 +36,7 @@ The notebook generates:
 
 ## Results
 
-![Model comparison](./"Total scores per Lab by Model.png")
+![Model comparison](./Total_scores_per_Lab_by_Model.png)
 
 ## Requirements
 Install dependencies via:
