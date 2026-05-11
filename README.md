@@ -34,6 +34,10 @@ The notebook generates:
 - visualisations of total scores per model/lab
 - optional exported Plotly charts
 
+## Results
+
+![Model comparison](./"Total scores per Lab by Model.png")
+
 ## Requirements
 Install dependencies via:
 
